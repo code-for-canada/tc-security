@@ -1,0 +1,40 @@
+---
+layout: post
+title: Welcome to Transport Canada
+lang: en
+ref: update-0
+author: David Ranger
+---
+
+Welcome to the Code For Canada Fourth Cohort Fellowship Transportation Security Clearance Modernization Project Partnership (C4C4CFTSCMPP).
+
+---
+## Our Team
+A quick introduction to who we are. We are 3 fellows from Code For Canada's 4th Cohort, assigned to the Transport Canada: Security project.
+This cohort has 2 teams going into Transport Canada, following in the footsteps of [The Digital Drone Collective](https://medium.com/code-for-canada/meet-the-digital-drone-collective-42bc97b53ed7)
+
+- Jared Chadwick: Product Manager
+- David Ranger: Developer
+- Jude Park: User Experience Designer
+
+## Our Project
+Security Clearances. If you want to work in an airport (everything from baggage handlers to the Tim Horton's cashiers), you need a security clearance issued by Transport Canada.
+Here are the steps to get a security clearance:
+- Get a job in an airport. This is important. If you don't have a job that requires a security clearance, you can't get one.
+- Go to the [online application](https://www.tc.gc.ca/en/services/transportation-security/apply-tscp.html) and fill it out. This could take some time, and you must fill it out correctly
+- Once you have filled out the form and submitted it, you must then print it out and make an appointment at the airport where you will be working
+- Take the printed form to the airport to have it signed by your employer, the airport enrollment officer, and yourself multiple times. Don't miss any of the signature boxes.
+- You will then have your fingerprints taken, and your signed copy of the printed application form, and your documents (you did remember to bring them, right?). Hope you didn't make any corrections on the printed form.
+- If you have done everything correctly and without error, and your record is clean, you should get your clearance in a few weeks
+- If you made any mistakes, you could end up waiting so long that you lose your job.
+
+It's a long process with pitfalls, and there's a large backlog of applications that need processing. This process needs modernization.
+
+## Transport Canada
+Transport Canada created the Transportation Security Clearance Modernization Project (TSCMP) to digitize the process. It was still in the early stages when negotiations were being made to bring in Code For Canada.
+Their mandate is to modernize and digitize the entire process from start to finish, which includes having a Business Case for the new process. Lots of work, and while there are some who think we are here too early,
+there's still things we can accomplish.
+
+## Our Personal Challenge
+The biggest challenge facing our team is finding an existing team doing the same work. TSCMP began hiring UX Designers while Code For Canada was still doing onboarding, and began the same process we were expected to do.
+It's a scenario Code For Canada hasn't faced before, and it's presenting new challenges to overcome.
