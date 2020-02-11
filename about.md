@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-### About
 We are the Cohort 4 Code For Canada fellowship team working with Transport Canada on their Transportation Security Clearance Modernization Project from January 2020 to October 2020.
 
 ### Contact the Fellows
