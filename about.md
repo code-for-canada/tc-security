@@ -3,13 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+### About
+We are the Cohort 4 Code For Canada fellowship team working with Transport Canada on their Transportation Security Clearance Modernization Project from January 2020 to October 2020.
 
-Some information about you!
+### Contact the Fellows
 
-### More Information
+Jared Chadwick, Product Manager
+- E-Mail: [jared.chadwick@codefor.ca](mailto:jared.chadwick@codefor.ca)
+- Twitter: [@jaredoc](https://twitter.com/jaredoc)
 
-A place to include any other types of information that you'd like to include about yourself.
+Jude Park, User Experience Designer
+- E-Mail: [jude.park@codefor.ca](mailto:jude.park@codefor.ca)
+- Twitter: [@judepark](https://twitter.com/judepark)
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+David Ranger, Developer
+- E-Mail: [david.ranger@codefor.ca](mailto:david.ranger@codefor.ca)
